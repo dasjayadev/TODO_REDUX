@@ -1,0 +1,5 @@
+export let SET_TEXT = "SET_TEXT"
+export let ADD_TEXT = "ADD_TEXT"
+export let DELETE_TEXT = "DELETE_TEXT"
+// export let EDIT_TEXT = "EDIT_TEXT"
+export let SEARCH_TEXT = "SEARCH_TEXT"
